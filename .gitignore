@@ -4,6 +4,9 @@
 # cache
 __pycache__/
 
+# backlog
+backlog.md
+
 # testing
 /test
 
