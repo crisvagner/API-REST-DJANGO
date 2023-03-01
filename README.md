@@ -7,7 +7,6 @@ O projeto é uma API Rest desenvolvida com Django e MySQL. Com esta API é poss�
 - CRUD de posts/notes.
 - Endpoints de Cadastro/Login.
 - Os administradores podem deletar usuários.
-- Os administradores NÃO conseguem alterar os dados de posts/notes dos usuários.
 - Os usuários comuns so podem deletar suas proprias contas e seus proprios posts/notes. Terá um mensagem de erro caso tente deletar algo ou atualizar algo que não os pertence.
 
 ### OBJETIVO
